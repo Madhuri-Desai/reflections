@@ -1,0 +1,9 @@
+Provided a better view.
+
+Provides good roll back and avoid errors.
+
+Provides logical reasons for commiting and changes r safely saved.
+
+Many be multiple files are linked together.
+
+Providesbackup.
